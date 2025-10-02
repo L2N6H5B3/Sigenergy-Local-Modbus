@@ -140,6 +140,7 @@ class EMSWorkMode(IntEnum):
     TOU = 2
     FULL_FEED_IN_TO_GRID = 5
     REMOTE_EMS = 7
+    VPP = 6
     CUSTOM = 9
 
 # Remote EMS control modes (Appendix 6)
